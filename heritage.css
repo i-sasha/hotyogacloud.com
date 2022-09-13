@@ -55,9 +55,11 @@
 
 
         #main {
+        font-size: 105%;
 	  	background-color: #C1FFC1; /* darkseagreen1 */
 		width: 1214px; /*1014*/
 		padding: 5px;
+        color: black; /* darkblue */
 		float: left; }
 
 
